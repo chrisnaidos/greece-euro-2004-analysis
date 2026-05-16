@@ -34,19 +34,19 @@ Using historical football data, betting probabilities, squad valuations, and tou
 
 ## Squad Value Comparison
 
-![Squad Values](visuals/Squad Value Comparison.png)
+![Squad Values](visuals/Squad_Value_Comparison.png)
 
 ---
 
 ## Attempts per Match vs Goals
 
-![Attempts vs Goals](visuals/Attempts per match vs goals.png)
+![Attempts vs Goals](visuals/Attempts_per_match_vs_goals.png)
 
 ---
 
 ## Goals Conceded per Game
 
-![Goals Conceded](visuals/Goals Conceded per Game.png)
+![Goals Conceded](visuals/Goals_Conceded_per_Game.png)
 
 ---
 
