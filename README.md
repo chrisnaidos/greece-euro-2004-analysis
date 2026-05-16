@@ -50,6 +50,12 @@ Using historical football data, betting probabilities, squad valuations, and tou
 
 ---
 
+## FIFA Ranking 2004
+
+![Goals Conceded](visuals/FIFA_Ranking.png)
+
+---
+
 ## Data Source
 
 - UEFA Euro 2004 statistics
