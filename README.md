@@ -1,5 +1,7 @@
 # How Greece Shocked Europe — Euro 2004 Data Analysis
 
+![Dashboard](./data/dashboard.jpg)
+
 ## Overview
 
 This project explores how Greece achieved one of football’s greatest underdog stories by winning UEFA Euro 2004 despite entering the tournament with extremely low expectations.
